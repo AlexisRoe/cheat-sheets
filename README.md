@@ -1,9 +1,12 @@
-# Inhaltsverzeichnis
+# Cheatsheets
 
--   Command_Line_cheatsheets.png
--   Emmet_cheatsheets.pdf
--   Git_cheatsheets.pdf
--   gitignore_Template.txt
--   VSCode--keyboard-shortcuts-windows.pdf
--   VSCode--keyboard-shortcuts-macos.pdf
--   XD_cheatsheet.pdf
+-   [Command Line](/Command_Line_cheatsheets.png)
+-   [Emmet](/Emmet_cheatsheets.pdf)
+-   [Git](/Git_cheatsheets.pdf)
+-   [VSCode Windows](/VSCode--keyboard-shortcuts-windows.pdf)
+-   [VSCode Mac](/VSCode--keyboard-shortcuts-macos.pdf)
+-   [XD](/XD_cheatsheet.pdf)
+
+# Templates
+
+-   [gitignore](/gitignore_Template.txt)
