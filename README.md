@@ -16,6 +16,8 @@
 -   [Emoji in Github](https://gist.github.com/rxaviers/7360908)
 -   [Emoji in HTML](https://www.w3schools.com/charsets/ref_emoji_smileys.asp)
 -   [Full List](https://unicode.org/emoji/charts/full-emoji-list.html)
+-   [Emojipedia](https://emojipedia.org/)
+-   [ASCII](https://www.freeformatter.com/html-entities.html)
 
 # Einstieg in Git
 
