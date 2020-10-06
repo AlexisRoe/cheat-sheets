@@ -40,3 +40,8 @@
 # Spiele zum Lernen
 
 -   [CSS Selektoren](https://flukeout.github.io/)
+-   [Mastering Grid](https://gridcritters.com/)
+-   [Service Workers](https://serviceworkies.com/)
+-   [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
+-   [Flex Groggy - Einstieg](https://flexboxfroggy.com/)
+-   [Grid Garden - Einstieg](https://cssgridgarden.com/)
