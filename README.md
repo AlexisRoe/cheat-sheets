@@ -22,3 +22,21 @@
 # Einstieg in Git
 
 -   [Quick and Dirty](https://rogerdudler.github.io/git-guide/index.de.html)
+
+# Favorite Extensions for VS Code
+
+-   Indented Block Highlighting
+-   Bracket Pair Coloring
+-   CSS Peek
+-   ESLint
+-   GitLens
+-   HTMLHint
+-   LiveShare
+-   Nasc VSCode
+-   Prettier
+-   Live Server & Live Sass Compiler
+-   Path Intellisense
+
+# Spiele zum Lernen
+
+-   [CSS Selektoren](https://flukeout.github.io/)
