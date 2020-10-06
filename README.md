@@ -6,6 +6,8 @@
 -   [VSCode Windows](/VSCode--keyboard-shortcuts-windows.pdf)
 -   [VSCode Mac](/VSCode--keyboard-shortcuts-macos.pdf)
 -   [XD](/XD_cheatsheet.pdf)
+-   [CSS Selektoren](https://stuffandnonsense.co.uk/archives/images/css-specificity-wars.png)
+
 
 # Templates
 
@@ -45,3 +47,13 @@
 -   [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 -   [Flex Groggy - Einstieg](https://flexboxfroggy.com/)
 -   [Grid Garden - Einstieg](https://cssgridgarden.com/)
+
+# Design Tools
+
+-   [Adobe Color Tool!](https://color.adobe.com)
+-   [Google Fonts](https://fonts.google.com)
+-   [Random Bilder von Unsplash](https://source.unsplash.com/random) - Man kann auch hintendran die Auflösung angeben z.B. /800x600
+
+# Tools fürs Bootcamp
+
+-   [Gruppen Generator](https://www.online-stopwatch.com/random-group-generators/) 
